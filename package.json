@@ -3,7 +3,7 @@
     "title": "Exclude Folders for Meteor",
     "description": "Excludes folders from Brackets for Meteor",
     "version": "0.1.0",
-    "author": "Juan Bernabó <juan@germinadora.com> 
+    "author": "Juan Bernabó <juan@germinadora.com>",
     "license": "MIT",
     "engines": {
         "brackets": ">=0.34.0"
